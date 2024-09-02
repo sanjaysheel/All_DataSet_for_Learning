@@ -1,0 +1,23 @@
+---
+title: "Google Forms Course"
+---
+
+### Author
+
+- Sean Kross
+
+### Description
+
+An example course that instructors can use as a template for collecting students'
+progress through a swirl course. This approach is recommended for courses that 
+are taught in person.
+
+### Installation
+
+```r
+swirl::install_course_github("seankross", "Google_Forms_Course")
+```
+
+### Website
+
+- https://github.com/seankross/Google_Forms_Course

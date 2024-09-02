@@ -1,0 +1,55 @@
+---
+title: "Swirl Courses Organized by Title"
+output:
+  html_document:
+    toc_depth: 2
+    toc_float:
+      collapsed: true
+---
+
+## A
+
+- [Advanced R Programming](arp.html) by Roger Peng
+
+## C
+
+- [ConoceR](conocer.html) by David Duncan
+
+## D
+
+- [Data Science and R](dsandr.html) by Wush Wu
+
+## E
+
+- [Exploratory Data Analysis](eda.html) by Team swirl
+
+## G
+
+- [Getting and Cleaning Data](getclean.html) by Team swirl
+- [Google Forms Course](gfc.html) by Sean Kross
+
+## P
+
+- [Programacion Estadistica R](estadistica.html) by Ismael Fernández
+- [Programando en R](programando.html) by José R Sosa
+- [Psychology Statistics](Psychology_Statistics.html) by Kevin R. Carriere
+
+## Q
+
+- [qss-swirl](qss.html) by Kosuke Imai
+
+## R
+
+- [R Programming](rprog.html) by Team swirl
+- [R Programmieren](R_Programmieren.html) by Stephan Weibelzahl
+- [The R Programming Environment](rpe.html) by Roger Peng
+- [Regular Expressions](regular_expressions.html) by Jon Calder
+- [Regression Models](regmod.html) by Team swirl
+
+## S
+
+- [Statistical Inference](statinf.html) by Team swirl
+
+## V
+
+- [A (Very) Short Introduction to R](A_(very)_short_introduction_to_R.html) by Claudia Brauer
